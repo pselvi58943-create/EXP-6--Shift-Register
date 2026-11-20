@@ -92,7 +92,7 @@ module tb6;
         #20 $finish;
     end
 endmodule
-
+```
 
 
 
