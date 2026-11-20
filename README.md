@@ -144,7 +144,6 @@ In DVE:
 The waveform should agree with the operation table.
 
 ## Expected Result
-
 The 4-bit SIPO Shift Register was realized using Verilog HDL, with the characteristic behaviour:
 
 Q(next) = {Q[2:0], sin}
@@ -160,7 +159,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 
 ## Viva-Voce Questions
-
 ●	What is a shift register, and what are its four basic types (SISO, SIPO, PISO, PIPO)?
 
 ●	How does a SIPO shift register differ from a PISO shift register?
